@@ -40,7 +40,7 @@ ul li.second, ul li.third{
     grid-template-columns: repeat(auto-fill, 350px);
     grid-template-rows: 2fr 2fr;
     gap: 10px 10px;
-    justify-items: center;
+     align-items: center;
 }
 
 .blue img{
